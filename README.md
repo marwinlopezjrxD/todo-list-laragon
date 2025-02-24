@@ -1,2 +1,2 @@
-# Todo Lists using Laravel Framework(Laragon 
-## Transfer files in Laragon
+# Todo Lists using Laravel Framework(Laragon) 
+## Transfering files
