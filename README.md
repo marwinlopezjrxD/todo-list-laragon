@@ -19,8 +19,8 @@
          <b style="color: green;">G</>
          <b style="color: blue;">B</b>)
         </td>
-        <td>design</td>
-        <td>user login</td>
+        <td>high</td>
+        <td>❌</td>
     </tr>
     <tr>
         <td></td>
