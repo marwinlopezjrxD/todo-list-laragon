@@ -14,9 +14,13 @@
         <th>mark as done</th>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Prio buttons
+        (<b style="color: red;">R</b>
+         <b style="color: green;">G</>
+         <b style="color: blue;">B</b>)
+        </td>
+        <td>design</td>
+        <td>user login</td>
     </tr>
     <tr>
         <td></td>
