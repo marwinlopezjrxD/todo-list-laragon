@@ -23,8 +23,13 @@
         <td>❌</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Design</td>
+        <td>medium</td>
+        <td>❌</td>
+    </tr>
+    <tr>
+        <td>user login</td>
+        <td>low</td>
+        <td>❌</td>
     </tr>
 </table>
